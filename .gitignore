@@ -133,3 +133,6 @@ resource/
 
 # PyCharm
 .idea/
+
+# Mac
+.DS_Store
